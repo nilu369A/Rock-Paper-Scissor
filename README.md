@@ -3,7 +3,7 @@
 
 Rock-Paper-scissor game made using HTML, CSS and Javascript
 
-Project link:
+Project link: https://nilu369a.github.io/Rock-Paper-Scissor/
 
 # Tech-Stack used...
 
